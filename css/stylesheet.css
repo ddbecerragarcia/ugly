@@ -1,10 +1,45 @@
 body {
-    background-color: aqua;
+    background-color: rgb(238, 255, 0);
     color: red;
 }
 
 h1 {
+    font-family: 'Courier New', Courier, monospace;
+    margin: auto;
     color: blue;
-    background-color: bisque;
+    background-color: rgb(196, 255, 232);
+    text-align: center;
     width:25%;
 }
+
+
+h2 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    margin: auto;
+    color:rgb(47, 135, 212);
+    text-align: center;
+}
+
+p {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    margin: auto;
+    color:rgb(47, 135, 212);
+}
+
+img {
+    margin: auto;
+    border-color: blueviolet;
+    border-style: dashed;
+
+}
+
+h1:hover {
+   background-color: rgb(148, 162, 23); 
+}
+
+img:hover {
+    background-color: rgb(148, 162, 23); 
+ }
+
