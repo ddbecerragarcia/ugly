@@ -1,5 +1,6 @@
 body {
-    background-color: rgb(238, 255, 0);
+    background-image: url(../img/background.jpg);
+    background-repeat: repeat;
     color: red;
 }
 
@@ -36,8 +37,4 @@ img {
 h1:hover {
    background-color: rgb(255, 28, 198); 
 }
-
-img:hover {
-    background-color: rgb(148, 162, 23); 
- }
 
